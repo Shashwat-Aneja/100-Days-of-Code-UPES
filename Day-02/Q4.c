@@ -25,6 +25,6 @@ int main ()
 
     b = 2*3.14*a;
     c = 3.14 * (a*a);
-    printf("Peremetre = %f\n", b);
+    printf("Circumference = %f\n", b);
     printf("Area = %f\n", c);
 }
