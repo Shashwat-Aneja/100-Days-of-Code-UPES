@@ -19,6 +19,6 @@ Replace the source path with the solution you want to run.
 
 ## Current progress
 
-The latest committed solution is Day 60, Q110, which finds the maximum element in every sliding window of size `k` using a deque of indices in O(n) time.
+The latest committed solutions are Day 61, Q111 (the first negative integer in each sliding window) and Day 62, Q112 (maximum subarray sum using Kadane's algorithm).
 
 New solutions should preserve the existing day/question naming convention and include input validation and useful comments.
