@@ -11,7 +11,7 @@ Solutions are grouped by challenge day. Each source file includes the problem st
 Use a C compiler such as GCC:
 
 ```sh
-gcc Day-60/Q110.c -std=c11 -Wall -Wextra -pedantic -o solution
+gcc Day-62/Q112.c -std=c11 -Wall -Wextra -pedantic -o solution
 ./solution
 ```
 
