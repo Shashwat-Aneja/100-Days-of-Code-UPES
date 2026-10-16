@@ -11,7 +11,7 @@ Solutions are grouped by challenge day. Each source file includes the problem st
 Use a C compiler such as GCC:
 
 ```sh
-gcc Day-62/Q112.c -std=c11 -Wall -Wextra -pedantic -o solution
+gcc Day-64/Q114.c -std=c11 -Wall -Wextra -pedantic -o solution
 ./solution
 ```
 
@@ -19,6 +19,6 @@ Replace the source path with the solution you want to run.
 
 ## Current progress
 
-The latest committed solutions are Day 61, Q111 (the first negative integer in each sliding window) and Day 62, Q112 (maximum subarray sum using Kadane's algorithm).
+The latest committed solutions are Day 63, Q113 (the kth smallest array element) and Day 64, Q114 (the longest substring without repeating characters).
 
 New solutions should preserve the existing day/question naming convention and include input validation and useful comments.
